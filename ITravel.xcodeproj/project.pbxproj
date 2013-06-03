@@ -209,7 +209,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = xcode;
+				ORGANIZATIONNAME = "李红(410139419@qq.com)";
 			};
 			buildConfigurationList = 69E57D90175C94D70057ACB1 /* Build configuration list for PBXProject "ITravel" */;
 			compatibilityVersion = "Xcode 3.2";
